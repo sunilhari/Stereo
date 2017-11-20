@@ -1,6 +1,4 @@
-# stereo README
-
-This is the README for your extension "stereo".
+# Stereo README
 It Speaks up everything you select
 
 ## Features
